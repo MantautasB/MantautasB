@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MantautasB
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me FB: Mantautas Būtė, EMAIL: butemantas.lt@gmail.com
 
 <!---
